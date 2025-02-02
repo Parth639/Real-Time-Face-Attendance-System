@@ -34,7 +34,7 @@ pip install numpy
 🚀 Usage
 1. Run the script to start the 📸 face recognition system:
    ```bash
-   python attendance_system.py
+   python Main.py
    ```
 2. The system will 🔍 detect and recognize 😃, updating attendance records in ☁️ Firebase.
 3. View the 📊 attendance logs in the ☁️ Firebase database.
