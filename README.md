@@ -39,8 +39,11 @@ pip install numpy
 2. The system will 🔍 detect and recognize 😃, updating attendance records in ☁️ Firebase.
 3. View the 📊 attendance logs in the ☁️ Firebase database.
 
-👤 Author
-Parth Shah  
+👤 Authors
+1.Parth Shah  
 🐙 GitHub: https://github.com/Parth639   
 💼 LinkedIn:https://www.linkedin.com/in/parth-shah-68695b281/
 
+2.Yashika Sonchatra 
+🐙 GitHub:    
+💼 LinkedIn:
